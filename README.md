@@ -9,10 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Any Project**
 
-- 📫 How to reach me: **honeysrk72@gmail.com**
-
-- 📄 Know about my experiences: [https://imgur.com/Zsqby7D](https://imgur.com/Zsqby7D)
-
 - ⚡ Fun fact: **The measurement of time, the second, is called that because it's the second division of the hour.**
 
 
@@ -22,12 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=honeykpatel&show_icons=true&locale=en" alt="honeykpatel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=honeykpatel&" alt="honeykpatel" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamhoney72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamhoney72" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/honeykpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="honeykpatel" height="30" width="40" /></a>
-<a href="https://kaggle.com/honeyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="honeyy" height="30" width="40" /></a>
-<a href="https://instagram.com/honeypatel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="honeypatel_" height="30" width="40" /></a>
-</p>
-
